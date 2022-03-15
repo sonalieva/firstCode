@@ -1,0 +1,4 @@
+C:\Users\user\Documents\firsttask\firsttask\obj\Release\netcoreapp3.1\firsttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\firsttask\firsttask\obj\Release\netcoreapp3.1\firsttask.AssemblyInfoInputs.cache
+C:\Users\user\Documents\firsttask\firsttask\obj\Release\netcoreapp3.1\firsttask.AssemblyInfo.cs
+C:\Users\user\Documents\firsttask\firsttask\obj\Release\netcoreapp3.1\firsttask.csproj.CoreCompileInputs.cache

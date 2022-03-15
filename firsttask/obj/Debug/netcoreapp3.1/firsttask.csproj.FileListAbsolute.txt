@@ -1,0 +1,14 @@
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.csproj.AssemblyReference.cache
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.AssemblyInfoInputs.cache
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.AssemblyInfo.cs
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\firsttask\firsttask\bin\Debug\netcoreapp3.1\firsttask.exe
+C:\Users\user\Documents\firsttask\firsttask\bin\Debug\netcoreapp3.1\firsttask.deps.json
+C:\Users\user\Documents\firsttask\firsttask\bin\Debug\netcoreapp3.1\firsttask.runtimeconfig.json
+C:\Users\user\Documents\firsttask\firsttask\bin\Debug\netcoreapp3.1\firsttask.runtimeconfig.dev.json
+C:\Users\user\Documents\firsttask\firsttask\bin\Debug\netcoreapp3.1\firsttask.dll
+C:\Users\user\Documents\firsttask\firsttask\bin\Debug\netcoreapp3.1\firsttask.pdb
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.dll
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.pdb
+C:\Users\user\Documents\firsttask\firsttask\obj\Debug\netcoreapp3.1\firsttask.genruntimeconfig.cache
